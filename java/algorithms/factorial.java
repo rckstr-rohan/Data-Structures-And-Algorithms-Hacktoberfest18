@@ -1,3 +1,4 @@
+//java program for factorial
 class GFG {  
     static void factorial(int n) 
     { 
